@@ -61,9 +61,8 @@ a {
     font-family: verdana;
     color: #f1f1f1;
     text-decoration: none;
-   background-color: rgb(66, 221, 66);
+    background-color: rgb(66, 221, 66);
     margin-top: 15px;
-   padding: 10px 15px;
-   border-radius: 25px;
-
+    padding: 10px 15px;
+    border-radius: 25px;
 }
